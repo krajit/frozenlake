@@ -1,1 +1,2 @@
-![](frozenLake2.gif "frozen lake ")
+![](animations/ezgif.com-gif-maker.gif "frozen lake ")
+
